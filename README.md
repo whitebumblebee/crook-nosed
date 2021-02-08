@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=crook-nosed&color=8A0857&label=PROFILE+VIEWS) 
 
 <!--
 **shishirjha/shishirjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
