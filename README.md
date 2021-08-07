@@ -1,5 +1,10 @@
-### Hi there 👋
-![](https://hit.yhype.me/github/profile?username=crook-nosed)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=crook-nosed&label=Profile%20views&color=0e75b6&style=flat"
+                     alt="crook-nosed"/></p>
+<p align="left"><a href="https://twitter.com/crook_nosed" target="blank"><img
+        src="https://img.shields.io/twitter/follow/theapache64?logo=twitter&style=for-the-badge" alt="crook-nosed"/></a>
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crook-nosed&" alt="crook-nosed"/></p>
 
 <!--
 **shishirjha/shishirjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
