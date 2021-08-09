@@ -1,5 +1,5 @@
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=crook-nosed&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"><img src="https://komarev.com/ghpvc/?username=crook-nosed&label=Profile%20views&color=05f02c&style=flat"
                      alt="crook-nosed"/></p>
 <p align="left"><a href="https://twitter.com/crook_nosed" target="blank"><img
         src="https://img.shields.io/twitter/follow/crook_nosed?logo=twitter&style=for-the-badge" alt="crook-nosed"/></a>
